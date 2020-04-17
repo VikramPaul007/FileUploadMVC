@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\WoV - World of Vicky\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\WoV - World of Vicky\\.nuget\\packages"
+    ]
+  }
+}
